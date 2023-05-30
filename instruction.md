@@ -22,3 +22,4 @@
 >*git branch [branch_name]*-создать ветку под названием branch_name
 
 >**git checkout**[branch_name]**- переключение на ветку мастер
+>*git branch -b [branch_name]*- удалить ветку
