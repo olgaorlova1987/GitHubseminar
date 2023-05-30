@@ -20,3 +20,5 @@
 # Основные команды 2 Семинара 
 
 >*git branch [branch_name]*-создать ветку под названием branch_name
+
+>*git branch -b [branch_name]*- удалить ветку
