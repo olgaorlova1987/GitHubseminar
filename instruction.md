@@ -23,3 +23,6 @@
 
 >**git checkout**[branch_name]**- переключение на ветку мастер
 >*git branch -b [branch_name]*- удалить ветку
+
+>*git chechout -b [branch_name]*-создание ветки и переход к ней
+
